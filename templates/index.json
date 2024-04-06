@@ -7,6 +7,7 @@
           "type": "slide",
           "settings": {
             "img_mobile": "shopify:\/\/shop_images\/5e1a98d2df560c9b5ddf1535c33e60b5.jpg",
+            "img_desktop": "shopify:\/\/shop_images\/d7b77c7e-a780-4b42-b969-a8f0d1d6f194_d3d66873-27a5-49f7-8320-a47466c63557.jpg",
             "overlay_color": "#000000",
             "overlay_opacity": 10,
             "overlay_blur": 2,
